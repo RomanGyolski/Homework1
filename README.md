@@ -1,4 +1,5 @@
 # Homework1
+This project will Contain...
 Repo made for exercises
-We resolwed the conflict! 
+Edit again in master branch.. 
 
